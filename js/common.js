@@ -1,4 +1,3 @@
 $(function(){
-  // alert("test");
-  // console.log("this is console log");
+ alert("test");
 });//document ready
